@@ -12,7 +12,7 @@ dependencies:
     git:
       url: https://github.com/masa-tokyo/flutter_toolkit
       path: packages/adaptive_image
-#      ref: adaptive_image/v1.0.0
+      ref: adaptive_image/v1.0.0
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
